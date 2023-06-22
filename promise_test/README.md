@@ -2,6 +2,8 @@
 
 original:前に使用したPromise使ってないコード
 
+書き直しテスト用コード：
+
 Promise_after:Promise使用コード
 
 Promise_after2:さらに起動時にPromise.allでJsonを取っておき通信を1回に止める
