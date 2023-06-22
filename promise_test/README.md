@@ -4,4 +4,4 @@ Promise_before:前に使用したPromise使ってないコード
 
 Promise_after:Promise使用コード
 
-Promise_after2:さらに起動時にPromise.allでJsonを取っておき通信を1回に止める
+Promise_after2:さらにPromise.allでJsonを取っておき通信を1回に止める
