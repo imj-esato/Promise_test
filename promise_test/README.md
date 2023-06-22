@@ -1,7 +1,9 @@
 都道府県を選択すると、市区町村が変化するセレクトボックス。
 
-Promise_before:前に使用したPromise使ってないコード
+original:前に使用したPromise使ってないコード
 
 Promise_after:Promise使用コード
 
-Promise_after2:さらにPromise.allでJsonを取っておき通信を1回に止める
+Promise_after2:さらに起動時にPromise.allでJsonを取っておき通信を1回に止める
+
+asyncawait_after:asyncawaitを使用コード
